@@ -273,6 +273,10 @@ p span{
     }
 }
 
+.skills{
+    color: black;
+}
+
 @media all  and (max-width: 648px) {
     .about-page{
         flex-direction: column;
